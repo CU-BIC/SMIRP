@@ -1,0 +1,150 @@
+>tmp-0
+ACACAGUCGUACAGUCAGUAGUAGUAGUCAGUCUCGCCGCGUGUCAGGUACGUCAGC
+.....(.(((((.(.(((..((((........)).))..).)).)..))))).)... ( -9.80)
+>tmp-1
+AGUCAGUCAGUACGCGUCAGUCGUCAGUAGGUCGUACAGUACUAGCGCAGUGUCACC
+.....(..((((((((.(...(....)...).)))...)))))..)........... ( -9.00)
+>tmp-2
+AGGCUCCAGCGCAGUCGUAGUCACGUAGUAGUCGUAGUAGUCACAGUGUCACGUCAC
+..((....))...(.(((.(.(((...((.(.(......).))).))).)))).).. ( -8.10)
+>tmp-3
+ACAGCGUAGUGUCCACACAGUCGCAGUCUCAGUACAGUAGUCGUAGUCGGUAGUCGC
+...(((..(((....)))...)))...((.(.(((.......))).).))....... ( -7.30)
+>tmp-4
+ACGCAGUAGUCGUCAGUAGUAGCAGUACAGUAGUGCGUCACAGUCACUCCGUCGGUC
+(((((.((.(.(((.((....)).).))).)).)))))................... ( -7.20)
+>tmp-5
+ACACAGCAGUAGUAGGUCGUAGUCCAGUACAGUGCAGCGUCGUCAGUCUCGUCGUAC
+.....((((((.(.((.......))).)))..))).(((.((.......)).))).. ( -9.00)
+>tmp-6
+AGUCGUCAGCACGUCGUCACACAGCCUCGUAGCGUACAGUCAGUGUAGUAGGUAGUC
+.(.(((....))).).....((.(((((...((.........))...).)))).)). ( -7.00)
+>tmp-7
+AGCCACAGUAGUAGUCAGUCAGUACGCGUCGUGUCAGUCGUAGGUCGUCUACACAGC
+.......((.((((.(..((..(((((.........).))))))..).))))))... ( -8.20)
+>tmp-8
+AGUGCCGCAGUCACAGUCACAGGUCUAGUCAGUAGUACGUCACGUCGCGUAGUAGUC
+.(((.(.........).)))............((.(((((......))))).))... ( -6.90)
+>tmp-9
+ACAGUAGCAGUCAGGUAGUAGCCUAGUCACGUACGUCGUCACAGUGUCAGCGUCGUC
+............((((....))))....(((.((((.(.(.....).).))))))). ( -9.30)
+>tmp-10
+ACGUCAGUGUAGCAGUCGGUACGUACUCCGUAGUAGUCACGUCAGUCAGUCAGCAGC
+......(((..((...(((........)))..))...)))................. ( -6.40)
+>tmp-11
+AGCAGGUCAGCGUACAGUGUCAGCACGUCGUAGUCUCGUACAGUACAGUCGUAGUCC
+....((.(.(((.((.(((....)))...(((......)))......))))).).)) ( -9.00)
+>tmp-12
+ACGUCAGUCCGUCGUGUCGGUCAGUAGCAGUAGUAGUCAGUCACGCAGCUACAGUAC
+......(.(((......))).).(((((.((.((........)))).)))))..... (-11.00)
+>tmp-13
+AGUAGUACACAGCAGUCGUCAGGUAGUCGUCACGCAGUAGUGUCGCAGUACCGUCUC
+.....................((((.(((.(((......))).)).).))))..... (-11.90)
+>tmp-14
+AGCUCACGGUAGUACGUCGUCAGUCAGUAGUCACAGUAGUACGCAGCCGUCAGUGUC
+.(((.(((((.((((.......................))))...))))).)))... (-12.00)
+>tmp-15
+AGUCUCACGUACGUCAGUCGGUAGUGUCGCAGUCAGCCAGUAGUCACGUAGUAGCAC
+.((..(((...((.....))...)))..)).....((.(.((......)).).)).. ( -6.80)
+>tmp-16
+ACAGCCGUGUCAGUCAGUAGUACUCAGUCACGUCGUAGUCACAGCGUAGCGUAGGUC
+...(((.....((((....).)))..(..((((.((....)).))))..)...))). ( -7.50)
+>tmp-17
+AGCACAGGUCUCGUAGUACGCCAGUAGUGUCGUCGUCACAGUCAGUACGUAGCAGUC
+.((...(((..........))).(((.((.(.........).)).)))...)).... ( -8.10)
+>tmp-18
+AGUGUAGUAGUCAGCAGUCACGGUACGUCGUAGUCAGUCAGUCACGUAGCGCUCACC
+.........((.(((.(..(((..((..(.......)...))..)))..)))).)). ( -8.40)
+>tmp-19
+AGUCACAGGUGUCGCGUCGUCAGUACAGUACACCAGUAGCAGUCGUCUAGUAGCGUC
+.(..((.(((((.(((((....).)).))))))).))..)...(((......))).. ( -9.90)
+>tmp-20
+ACACGCAGCGUCGUAGUCUAGUAGUAGUCAGUCAGUCACGUCAGUCCAGUGGUACGC
+.(((...((..(((.(.((..(........)..)).))))...))...)))...... ( -6.80)
+>tmp-21
+AGUCGUACGGCAGUAGUCAGUCCAGUAGUGCACGUCACUCGUCAGCACGUAGUAGUC
+.(((....)))................(((((((.....)))..))))......... ( -9.10)
+>tmp-22
+AGUAGCAGUCACAGUAGUAGUAGUCACGCGUCUGUCCGGUCAGUACGCAGUCGUCAC
+...........................(((((((......))).))))......... ( -8.90)
+>tmp-23
+AGUCGUACACAGCAGUAGUCGUCGGUAGUCCAGCAGUGCACGUCUAGUCGUAGUCAC
+((.(((.(((.((.(....)...((....)).)).))).))).))............ ( -9.00)
+>tmp-24
+ACAGUCAGUCGGUCGCAGUCUCACGUCAGCGUAGUAGUACCGUCAGUGUAGUAGCAC
+.......(.((((.((...((.(((....)))))..)))))).).((((....)))) (-11.10)
+>tmp-25
+AGCAGUCAGUAGGUCGUCAGCUCGUGUCACGUCAGUACACCAGUACGCGUAGUAGUC
+.......(.((.(.(((..(((.((((.((....)))))).))))))).)).).... ( -9.90)
+>tmp-26
+ACAGUCGUCGGCAGUCACUACGUAGCGCGUAGUCAGUCAGUCAGUCCAGUAGUGUAC
+.........(((....((((((.....))))))..)))................... ( -9.10)
+>tmp-27
+ACGUCAGUAGUCGUCGUCGUACACAGUCUAGUAGCAGUGUCACAGCGUCAGUAGGCC
+..(((.(..(.(((.((.(.((((.((......)).))))))).))).)..).))). ( -9.70)
+>tmp-28
+AGGCACCAGUAGUAGUCAGUCACGUCACGUCAGUAGUAGCGUCGUCUCACGUAGUGC
+........(((.((((.((.((((..((.......))..))).).)).)).)).))) ( -9.40)
+>tmp-29
+AGUAGUCGCAGUCGCACAGUAGUACGGCACAGUCCACGUAGUCUGUAGUCAGUCGUC
+.((.(.(...((((.((....)).))))...).).))...(.(((....))).)... ( -8.90)
+>tmp-30
+AGUACAGUAGCGUCAGUCACAGUACACCGUCAGUAGGCGCGUGUCGUAGUCUCAGUC
+..(((.((..(....)..))...((((((((....)))).)))).)))......... (-10.90)
+>tmp-31
+AGUCGUACGUCAGUAGUCAGGUCUAGUCAGCGUAGUCCAGCACGUACAGCACGUGUC
+.....(((((.(.(((......))).)..))))).....((((((.....)))))). (-11.10)
+>tmp-32
+AGUCAGUAGUCACGGCGUCAGUGUACGUCCGUAGUCAGUACAGUCAGCGUCAGCUAC
+.....(((((...(((((.(.(((((...........))))).)..))))).))))) (-13.90)
+>tmp-33
+AGUCUCAGUCAGCCGUAGUAGUCAGUCGUCGUCAGGUACAGUACGUGUAGCACGCAC
+........................(.((((..((.(((...))).))..).)))).. ( -4.20)
+>tmp-34
+AGCACACAGUCGUAGUAGGUAGUCCGCAGUCGUAGUAGUGUCAGUCACGCUCACGUC
+.((..((..((......))..))..))...((((((.(((.....)))))).))).. ( -8.00)
+>tmp-35
+AGUACGUACAGUAGCGCGUAGUCAGUCGGUCAGCCACACUAGUCAGUCAGUCGUGUC
+..((((.((.(....((.((((..((.((....))))))))))....).)))))).. ( -6.80)
+>tmp-36
+AGGUCAGUCGUAGUCGUCGUCAGUAGCGUCAGUGCUCGCACAGUACAGUACAGUACC
+..((.((.((..(.(((........))).)..)))).))...((((......)))). ( -8.00)
+>tmp-37
+AGCGUACAGUAGCUACGUGUCGUCAGUACAGCGUACGUCAGUCAGUCAGGUCCAGUC
+.((((((.((.(.(((.((....)))))).))))))))................... ( -8.70)
+>tmp-38
+AGUAGUCCACAGUAGGUGCACACGUCAGUCGUCGUCAGUCACGUAGCGCUAGUAGUC
+..............(((((..((((..(.(.......).))))).)))))....... ( -7.40)
+>tmp-39
+AGUGGCGUAGUCGUACAGUACACAGUCAGUCAGUAGUACGCUCGCAGUCGUCAGUCC
+....(((.((.(((((..(((...........)))))))))))))............ (-11.00)
+>tmp-40
+AGUGUCGUAGUCGUCAGUCAGCGCGUCACUAGUCAGUACAGUAGGCGUACACAGUCC
+((((.(((.((.(.....).))))).)))).....((((.......))))....... (-10.30)
+>tmp-41
+AGUACCGUCGUAGUAGGUCAGUACUCAGUCAGUCGCAGUAGCGCACGUCAGUGUCAC
+(((((.(((......)).).)))))......(((((....))).))........... ( -8.40)
+>tmp-42
+AGUCGUGUAGCAGCAGUAGUCUCACGGUACAGUAGUCGUACGUCAGCCAGUCACGUC
+.(.((((..((.((.(((.((....))))).)).))..)))).)............. ( -9.50)
+>tmp-43
+AGCGCAGUCGUCUAGGCAGUACGUAGUAGUCAGUCACACGUCGUCAGUGUAGUCCAC
+.((((.(((.....))).(.((((.((........)))))))....))))....... ( -8.80)
+>tmp-44
+AGUCAGUGUAGCGUCGCGCGGUACAGUCAGUAGUACGUAGUCACUCCAGUCACAGUC
+.((.(.((.((.(.(..(((.(((........)))))).).).)).)).).)).... ( -8.30)
+>tmp-45
+ACGUGUACAGCAGUCACAGUCAGGUAGCAGUCGUCGUACUCCGUCGUAGCAGUAGUC
+..(((.((....))))).........((...((.((.....)).))..))....... ( -7.60)
+>tmp-46
+ACACAGUCAGUCUCGUCGGCAGCAGUAGUCAGUACGUGUAGUAGUCGUCCAGCGUAC
+.........(.((.(.((((.((((((.....))).)))....)))).).))).... ( -6.60)
+>tmp-47
+AGCAGUAGUCCGGCACACGCGUGUAGUCGUCAGUCUAGUAGUAGUCGUCAGUCACAC
+.(((.(((.((((((((....))).))))...).))).).))............... ( -7.50)
+>tmp-48
+AGUCACACGUCAGUGUAGUCGUCAGUCCAGUCGCAGGUACUAGUACGUAGCGCAGUC
+.(.(((((....)))).).).........(.((((.(((....))).).)))).... (-10.00)
+>tmp-49
+AGUCAGUAGCGUCGUAGUACAGUCACAGUCGCGUCACCACGUAGUGUCAGGUCUAGC
+..............(((.((....(((.(.((((....))))).)))...))))).. ( -5.90)

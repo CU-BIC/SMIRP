@@ -1,0 +1,12 @@
+
+        BEGIN {
+            open STDERR, '>&', STDOUT
+              or die "Can't dup STDOUT->STDERR: $!;";
+        }
+	
+#line 1
+$| = 1;
+$\ = "\n";
+fork()
+ ? do { require Config; print($Config::Config{osname} eq $^O); }
+ : do { require Config; print($Config::Config{osname} eq $^O); }

@@ -1,0 +1,10 @@
+hybrid-ss-min 3.6 ran on tmp_Acagtacattaagccgaatcctggtcag.0.fasta.fasta at Mon Jul 28 08:14:43 2014
+
+NA = RNA
+tMin = 37
+tInc = 1
+tMax = 37
+[Na+] = 1
+[Mg++] = 0
+maxloop = 30
+prefilter 2/2

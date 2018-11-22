@@ -1,0 +1,1 @@
+curl http://localhost:3001/prediction -X POST -H "Content-Type: application/json" -d '{"name": "franktest", "sequence": "CCUGCUGGCUACUGCUGACGACUGCUCUGACUUUAUUGCACUACUGUACUGUACAGCUAGCAGUGCAAUAGUAUUGUCAAAGCAUCCGGGAGCAGGCUAC"}'

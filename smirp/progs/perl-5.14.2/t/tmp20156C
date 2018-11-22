@@ -1,0 +1,2 @@
+#!perl -s
+BEGIN { print $x,$y; exit }

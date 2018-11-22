@@ -1,0 +1,19 @@
+
+        BEGIN {
+            open STDERR, '>&', STDOUT
+              or die "Can't dup STDOUT->STDERR: $!;";
+        }
+	
+#line 1
+
+# standard behaviour, without any extra references
+use Tie::Hash ;
+{package Tie::HashUntie;
+ use base 'Tie::StdHash';
+ sub UNTIE
+  {
+   warn "Untied\n";
+  }
+}
+tie %h, Tie::HashUntie;
+untie %h;

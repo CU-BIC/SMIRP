@@ -1,0 +1,5 @@
+BEGIN { print "block 1\n"; }
+CHECK { print "block 2\n"; }
+INIT  { print "block 3\n"; }
+	print "block 4\n";
+END   { print "block 5\n"; }

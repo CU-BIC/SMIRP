@@ -1,0 +1,2 @@
+#!perl -sn
+BEGIN { print $x; exit }

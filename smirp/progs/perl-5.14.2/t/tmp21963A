@@ -1,0 +1,1 @@
+my $v = "\x{20ac}\x{20ac}"; my $x = sprintf "%1.3s", $v; $x =~ /^(\s*)(\S*)$/; print "$_" for map {length} $1, $2
