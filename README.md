@@ -3,6 +3,7 @@
 To run SMIRP, you will need to install docker and docker-compose. That's it. Once you have that, do the following:
 
 ```
+$ git clone https://github.com/CU-BIC/SMIRP.git
 $ docker-compose build
 $ docker-compose up -d
 ```
