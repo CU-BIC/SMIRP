@@ -24,7 +24,8 @@ def compute_prediction():
     sp.call(cmd, shell=True)
 
     with open('/app/smirp/data/{}.fasta.hmp20.results'.format(name)) as results:
-        print(results)
+        score = results.read().split('\n')[1].split()[1]
+        return score
 
     return 'Computing prediction...'
 
